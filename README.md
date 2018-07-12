@@ -1,4 +1,6 @@
 # check\_emc\_isilon.py
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fl13t%2Ficinga2_check_emc_isilon.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fl13t%2Ficinga2_check_emc_isilon?ref=badge_shield)
+
 
 Plugin to check some status information about EMC Isilon storage system over snmp.
 
@@ -22,3 +24,7 @@ optional arguments:
 
 Written 2015, Dmytro Prokhorenkov
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fl13t%2Ficinga2_check_emc_isilon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fl13t%2Ficinga2_check_emc_isilon?ref=badge_large)
